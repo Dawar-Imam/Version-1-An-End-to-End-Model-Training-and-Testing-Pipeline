@@ -1,0 +1,2 @@
+# Version 1: An End-to-End Model Training and Testing Pipeline
+This repository provides a complete guide for training and testing a model end-to-end. It describes the necessary steps for project setup, data organization and preprocessing, model training and inference pipelines, benchmarking experiments, and documentation. For a demo I will be performing Instance Segmentation via Visual Transformers.  
